@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aruna-31/DSA-daily-practice/tree/master/0136-single-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aruna-31/DSA-daily-practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aruna-31/DSA-daily-practice/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/aruna-31/DSA-daily-practice/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
